@@ -54,7 +54,7 @@ The document includes:
 - Collapse map showing backward compatibility  
 - Real-world illustrations and case studies
 
-Quick demo: see examples/ssm_quickstart.py — minimal ⊕ (add), ⊗ (M2), and one worked example.
+**Quick demo:** see `ssm_quickstart.py` — minimal ⊕ (add), ⊗ (M2), and one worked example.
 
 ## Impact & Benefits
 
