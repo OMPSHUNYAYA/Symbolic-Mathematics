@@ -1,9 +1,7 @@
 # Shunyaya Symbolic Mathematics — Extending Arithmetic with Alignment  
 *White Paper v2.3*
 
-![GitHub Release](https://img.shields.io/github/v/release/OMPSHUNYAYA/Symbolic-Mathematics?style=flat&logo=github)  
-![GitHub Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematics?style=flat&logo=github)  
-![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue?style=flat&logo=creative-commons)
+![GitHub Release](https://img.shields.io/github/v/release/OMPSHUNYAYA/Symbolic-Mathematics?style=flat&logo=github) ![GitHub Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematics?style=flat&logo=github) ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue?style=flat&logo=creative-commons)
 
 **Shunyaya Symbolic Mathematics (SSM)** is a rigorous extension of classical arithmetic.  
 Every number is represented as a pair **(m, a)** where:  
@@ -55,6 +53,8 @@ The document includes:
 - Identities, inverses, and zero-class conventions  
 - Collapse map showing backward compatibility  
 - Real-world illustrations and case studies
+
+Quick demo: see examples/ssm_quickstart.py — minimal ⊕ (add), ⊗ (M2), and one worked example.
 
 ## Impact & Benefits
 
