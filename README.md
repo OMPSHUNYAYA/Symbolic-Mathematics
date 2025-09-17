@@ -112,6 +112,61 @@ By pairing magnitude **m** with alignment **a**, symbolic numerals turn scalars 
 Released under **CC BY-NC 4.0** (non-commercial, with attribution).  
 Use for research, review, and education.
 
+## Third-Party Data & Licences (applies to all case studies)
+
+We use only publicly available datasets. Rights come from each dataset’s own licence/terms. We attribute, link to the source/licence, avoid implying endorsement, and do not re-host raw files unless the licence permits.
+
+**C.1 Cyclone Alfred — IBTrACS v04r01 (NOAA/NCEI; BoM contributions)**  
+- Source: International Best Track Archive for Climate Stewardship (IBTrACS) v04r01  
+- Licence/Terms: As stated on the IBTrACS product page; use the “Citable as” guidance  
+- Link (product page): https://www.ncei.noaa.gov/products/international-best-track-archive  
+- Link (metadata landing): https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdc%3AC01552  
+- Last verified: 2025-09-17
+
+**C.2 ECG Arrhythmia — MIT-BIH Arrhythmia Database (PhysioNet)**  
+- Source: MIT-BIH Arrhythmia Database (e.g., record 101) on PhysioNet  
+- Licence/Terms: As stated on the PhysioNet dataset page; include the recommended citation text  
+- Link: https://www.physionet.org/physiobank/database/mitdb/  
+- Last verified: 2025-09-17
+
+**C.3 Cybersecurity — CICIDS-2017 (Canadian Institute for Cybersecurity, UNB)**  
+- Source: CICIDS-2017 Friday Working Hours Afternoon DDoS subset  
+- Licence/Terms: As stated on the dataset page; include the dataset’s required citation line(s)  
+- Link: https://www.unb.ca/cic/datasets/ids-2017.html  
+- Last verified: 2025-09-17
+
+**C.4 Annuities — U.S. SSA 2021 Period Life Table (age-65 cohort)**  
+- Source: U.S. Social Security Administration (SSA) Period Life Table, 2021  
+- Licence/Status: U.S. Government work (public domain) unless otherwise noted; attribution appreciated (“Source: Social Security Administration (SSA)”)  
+- Link: https://www.ssa.gov/oact/HistEst/PerLifeTables/2021/PerLifeTables2021.html  
+- Last verified: 2025-09-17
+
+**C.5 Telecom Joins — Wireshark “Network_Join_Nokia_Mobile.pcap”**  
+- Source: Wireshark Sample Captures — `Network_Join_Nokia_Mobile.pcap`  
+- Link (protocol page listing the file): https://wiki.wireshark.org/Wi-Fi  
+- Link (SampleCaptures index): https://wiki.wireshark.org/SampleCaptures  
+- Licence/Terms: As provided on the Wireshark wiki SampleCaptures pages; attribute to Wireshark contributors; no endorsement implied  
+- Last verified: 2025-09-17  
+- Note: We exported a join-only CSV from the PCAP for analysis.
+
+**C.6 Batteries — NASA Prognostics Center of Excellence (PCoE) Li-ion Battery Aging (ARC)**  
+- Source: NASA PCoE Li-ion battery aging datasets (e.g., cells B0025–B0028)  
+- Licence/Terms: As stated on the dataset record page; include the NASA-recommended citation text  
+- Link: https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/  
+- Last verified: 2025-09-17
+
+**C.7 Audit Risk — Audit Risk Dataset (Kaggle)**  
+- Source: Kaggle “Audit Data” public dataset  
+- Licence/Terms: **CC0: Public Domain** (per the dataset page). Include attribution if requested; respect any redistribution notes on the page  
+- Link: https://www.kaggle.com/datasets/sid321axn/audit-data  
+- Last verified: 2025-09-17
+
+**Caption for derived figures/tables**  
+> Source: <Dataset name>. Licence/Terms: <as stated on dataset page>. Used under those terms; changes made (processing/aggregation/visualization). No endorsement implied.
+
+**Redistribution**  
+We do not include or redistribute third-party raw data in this repository unless the dataset’s licence explicitly permits it; we link to the original source instead.
+
 ## Suggested GitHub Topics (Repo → About)
 
 mathematics • algebra • symbolic-math • entropy • information-theory • drift-detection • alignment • shunyaya • zentrube • zeozo
