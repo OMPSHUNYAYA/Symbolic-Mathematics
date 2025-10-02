@@ -3,6 +3,8 @@
 
 ![GitHub Release](https://img.shields.io/github/v/release/OMPSHUNYAYA/Symbolic-Mathematics?style=flat&logo=github) ![GitHub Stars](https://img.shields.io/github/stars/OMPSHUNYAYA/Symbolic-Mathematics?style=flat&logo=github) ![License](https://img.shields.io/badge/license-CC%20BY--NC%204.0-blue?style=flat&logo=creative-commons)
 
+**SSM v2.3 — Brief (PDF):** [Preview](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics/blob/main/SSM_v2.3-brief.pdf) · [Download](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics/raw/main/SSM_v2.3-brief.pdf)
+
 **Shunyaya Symbolic Mathematics (SSM)** is a rigorous extension of classical arithmetic.  
 Every number is represented as a pair **(m, a)** where:  
 - **m** = magnitude (a standard real number)  
@@ -106,6 +108,8 @@ By pairing magnitude **m** with alignment **a**, symbolic numerals turn scalars 
 - Download (v2.3): https://github.com/OMPSHUNYAYA/Symbolic-Mathematics/raw/main/Shunyaya%20Symbolic%20Mathematics_ver2.3.pdf
 - Releases: https://github.com/OMPSHUNYAYA/Symbolic-Mathematics/releases
 
+- SSMS — Shunyaya Symbolic Mathematical Symbols (repo): https://github.com/OMPSHUNYAYA/Symbolic-Mathematical-Symbols
+
 ## License
 
 © The Authors of Shunyaya Framework and Symbolic Mathematics.  
@@ -169,4 +173,5 @@ We do not include or redistribute third-party raw data in this repository unless
 
 ## Suggested GitHub Topics (Repo → About)
 
-mathematics • algebra • symbolic-math • entropy • information-theory • drift-detection • alignment • shunyaya • zentrube • zeozo
+mathematics • algebra • symbolic-math • symbolic-arithmetic • entropy • information-theory • drift-detection • early-warning • stability-analysis • streaming-aggregation • rapidity-mean • tanh-atanh • bounded-operators • alignment-clamp • conservative-extension • reproducible-research • plain-ascii-formulas • shunyaya • zentrube • zeozo
+
