@@ -5,6 +5,8 @@
 
 **SSM v2.3 — Brief (PDF):** [Preview](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics/blob/main/SSM_v2.3-brief.pdf) · [Download](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics/raw/main/SSM_v2.3-brief.pdf)
 
+- ✅ **Proof of Concept:** 10 real-life scenarios (scripts + “Getting Started” guides + CI workflow) — **[Symbolic-Mathematics-POC](https://github.com/OMPSHUNYAYA/Symbolic-Mathematics-POC)**
+
 **Shunyaya Symbolic Mathematics (SSM)** is a rigorous extension of classical arithmetic.  
 Every number is represented as a pair **(m, a)** where:  
 - **m** = magnitude (a standard real number)  
